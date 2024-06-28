@@ -52,20 +52,10 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
-    },
-    "profile_8d7kmR": {
-      "type": "profile",
-      "custom_css": [
-        "h2{font-size:32px}"
-      ],
-      "settings": {
-        "title": "Francisco Esteban"
-      }
     }
   },
   "order": [
     "announcement-bar",
-    "header",
-    "profile_8d7kmR"
+    "header"
   ]
 }
