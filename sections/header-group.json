@@ -55,6 +55,9 @@
     },
     "profile_8d7kmR": {
       "type": "profile",
+      "custom_css": [
+        "h2{font-size:32px}"
+      ],
       "settings": {
         "title": "Francisco Esteban"
       }
