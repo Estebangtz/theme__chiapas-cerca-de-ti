@@ -1,19 +1,29 @@
 {% schema %}
     {
       "name": "Profile",
+      "tag": "section",
+      "class": "profile",
       "settings": [
         {
+        "type": "image_picker",
+        "id": "user_img",
+        "label": "User Photo"
+        },  
+        {
         "type": "text",
-        "id": "title",
-        "label": "Profile"
+        "id": "user_name",
+        "label": "User Name"
+        },
+        {
+        "type": "richtext",
+        "id": "user_bio",
+        "label": "User Biographia"
         }
   ],
       "presets": [
             {
-            "name": "Profile",
-            "settings": {
-            "title": "User Profile"
-            }
+            "category": "Profile",
+            "name": "User Profile"
             }
         ]
     }
