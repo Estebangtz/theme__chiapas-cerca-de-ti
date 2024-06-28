@@ -1,9 +1,19 @@
 {% schema %}
     {
       "name": "Profile",
+      "settings": [
+        {
+        "type": "text",
+        "id": "title",
+        "label": "Profile"
+        }
+  ],
       "presets": [
             {
-            "name": "Profile"
+            "name": "Profile",
+            "settings": {
+            "title": "User Profile"
+            }
             }
         ]
     }
