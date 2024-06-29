@@ -52,10 +52,19 @@
         "padding_top": 20,
         "padding_bottom": 20
       }
+    },
+    "profile_WHdYqJ": {
+      "type": "profile",
+      "settings": {
+        "user_img": "shopify:\/\/shop_images\/urban-mens-fashion-on-young-adult.jpg",
+        "user_name": "Francisco Esteban",
+        "user_bio": "<p>Programador con mas de 5 años de experiencia en el sector empresarial.<\/p>"
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "profile_WHdYqJ"
   ]
 }
