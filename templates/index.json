@@ -183,6 +183,9 @@
     },
     "profile_BaTYze": {
       "type": "profile",
+      "custom_css": [
+        "h3{font-size:25px;}"
+      ],
       "settings": {
         "user_img": "shopify:\/\/shop_images\/rooftopper-looking-down.jpg",
         "user_name": "francisco esteban Gutierrez",
