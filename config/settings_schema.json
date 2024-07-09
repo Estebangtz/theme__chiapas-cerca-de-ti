@@ -34,18 +34,23 @@
     ]
   },
   {
-    "name": "Mini Cart",
+    "name": "Imagen con titulo",
     "settings": [
       {
         "type": "header",
-        "content": "Mini Cart"
+        "content": "Imagen con titulo"
       },
       {
         "type": "text",
         "id": "test_data",
-        "label": "Test Data",
-        "placeholder": "Capture un dato",
+        "label": "Titulo",
+        "placeholder": "Capture el titulo",
         "default": "Francisco Esteban"
+      },
+      {
+        "type": "image_picker",
+        "id": "test_img",
+        "label": "Imagen"
       }
     ]
   },
