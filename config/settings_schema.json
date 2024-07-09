@@ -34,6 +34,22 @@
     ]
   },
   {
+    "name": "Mini Cart",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Mini Cart"
+      },
+      {
+        "type": "text",
+        "id": "test_data",
+        "label": "Test Data",
+        "placeholder": "Capture un dato",
+        "default": "Francisco Esteban"
+      }
+    ]
+  },
+  {
     "name": "t:settings_schema.colors.name",
     "settings": [
       {
