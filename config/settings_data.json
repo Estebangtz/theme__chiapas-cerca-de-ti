@@ -9,10 +9,11 @@
 */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/logo_mandastuc.png",
+    "logo": "shopify:\/\/shop_images\/logo.png",
     "logo_width": 90,
     "favicon": "shopify:\/\/shop_images\/nature-mountains-flower-landscape-adventure.jpg",
     "test_data": "< Lia Caroline Esteban Escobar \/>",
+    "test_img": "shopify:\/\/shop_images\/DaleySoft.jpg",
     "type_header_font": "antique_olive_n4",
     "heading_scale": 100,
     "type_body_font": "lora_n4",
