@@ -39,7 +39,7 @@
         "image": "shopify:\/\/shop_images\/nature-mountains-flower-landscape-adventure.jpg",
         "image_2": "shopify:\/\/shop_images\/coffee-s-ready.jpg",
         "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_height": "medium",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -153,6 +153,7 @@
         },
         "button_Q88NAG": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Conoce mas de nuestra finca...",
             "button_link": "",
